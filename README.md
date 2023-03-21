@@ -10,7 +10,7 @@
 * `cd My-APPS`
 * Run `npm install`
 * Run `npm start`
-* Press `a` for Android or press 'w' for Web display
+* Press `a` for Android or press `w` for Web display
 
 #### How to Use
 * Click 'task to do' on MY APPS page
