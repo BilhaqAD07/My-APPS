@@ -1,4 +1,4 @@
-## Todo's app Preview
+## MY-APPS Preview
 
 ![alt text](https://res.cloudinary.com/ddraodqz5/image/upload/v1679419348/Demonstration_j5gvq1.gif)
 
@@ -10,7 +10,7 @@
 * `cd My-APPS`
 * Run `npm install`
 * Run `npm start`
-* Press `a` for Android or press 'w' for Web display
+* Press `a` for Android or press `w` for Web display
 
 #### How to Use
 * Click 'task to do' on MY APPS page
